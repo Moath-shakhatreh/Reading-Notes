@@ -1,5 +1,5 @@
 # Reading-Notes
-
+# gggg
 [observations and questions from the reading assignments throughout my course.]()
 
 ## [*Code 102 - Intro to Software Development*]()
