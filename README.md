@@ -36,8 +36,8 @@ To briefly sum up the findings: Individuals who believe their talents can be dev
 3- Just espouse a growth mindset, and good things will happen, Mission statements are wonderful things. You can’t argue with lofty values like growth, empowerment, and innovation. But they are meaningless to employees if the company doesn’t implement policies that make these values real and attainable.
 
 ## Things I want to know more about
-Ways a Crisis Can Help You Cultivate a Growth Mindset
-</p>source: https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
+Ways a Crisis Can Help You Cultivate a Growth Mindset</p>
+source: https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 
 
 
