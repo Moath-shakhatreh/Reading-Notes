@@ -37,6 +37,7 @@ To briefly sum up the findings: Individuals who believe their talents can be dev
 
 ## Things I want to know more about
 Ways a Crisis Can Help You Cultivate a Growth Mindset
+</p>source: https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 
 
 
