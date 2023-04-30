@@ -85,6 +85,19 @@ Infinite recursion is avoided by ensure that progress is made toward the basis c
 
 iterative approach and BigO
 
+## Pain and suffering , BigO notation
+
+Reading this topics (Pain and Suffering and Beginners Guide to Big O) helped me to continue in this course and understanding some topics that I was not understanding it correctly 
+
+### Reading Questions
+
+1-In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles: <br>
+We will be pushed emotionally, constantly confronted with our own lack of understanding of a topic, we will be pushed mentally, having to think our way through problems that we had only even heard about a few hours beforehand.
+<br><br>
+2-After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity:
+<br>
+Time complexity is a function that describes how long an algorithm takes in terms of the quantity of input it receives. Space complexity is a function that describes how much memory (space) an algorithm requires to the quantity of input to the method.
+
 
 
 
