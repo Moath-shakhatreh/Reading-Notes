@@ -96,7 +96,10 @@ We will be pushed emotionally, constantly confronted with our own lack of unders
 <br><br>
 2-After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity:
 <br>
-Time complexity is a function that describes how long an algorithm takes in terms of the quantity of input it receives. Space complexity is a function that describes how much memory (space) an algorithm requires to the quantity of input to the method.
+Time complexity is a function that describes how long an algorithm takes in terms of the quantity of input it receives. Space complexity is a function that describes how much memory (space) an algorithm requires to the quantity of input to the method.<br>
+
+### Things I want to know more about: 
+algorithms that need to operate at scale
 
 
 
