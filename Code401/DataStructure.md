@@ -20,7 +20,11 @@ Big O
 
 In plain words, Big O notation describes the complexity of your code using algebraic terms.
 
-Discussion Questions
+### Things I want to know more about: 
+
+iterative approach and BigO
+
+### Discussion Questions
 
 1-What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 It is important to state that no single data structure serves as an optimal solution for all problems. With that in mind, to pick the best data structure to solve a particular problem, we have to take into account what are the operations we are going to perform and how often they are going to be .

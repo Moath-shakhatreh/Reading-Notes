@@ -14,6 +14,3 @@
  ![c](../screenShots/Screenshot%20sql-16.png)
  ![c](../screenShots/Screenshot%20sql-17.png)
  ![c](../screenShots/Screenshot%20sql-18.png)
-
- 
- 
