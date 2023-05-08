@@ -11,4 +11,5 @@
 |  5  | [ThrGrowithMindest](./Code401/GrowthMindest.md) |
 |  6  | [Read: Class-01](./Code401/Class-01.md) |
 |  7  | [Read: Class-02](./Code401/Class-02.md) |
-|  7  | [Read: Class-03](./Code401/Class-03.md) |
+|  8  | [Read: Class-03](./Code401/Class-03.md) |
+|  9  | [Read: Class-04](./Code401/Class-04.md) |
