@@ -1,0 +1,38 @@
+# Linked Lists And BigO
+
+## What my classmate learned about:
+
+## 1-Linked lists:
+
+Linked lists are a common data structure used in computer science and programming. They consist of a sequence of nodes, where each node stores a value and a reference (or pointer) to the next node in the list. The first node is called the head, and the last node is called the tail.
+
+For example, you can insert a new node into the list by changing the reference of the previous node to point to the new node, and the reference of the new node to point to the next node.
+
+Linked lists can be used to implement other data structures, such as stacks and queues. For example, a stack can be implemented using a linked list where the head represents the top of the stack, and new elements are added to the head and removed from the head. Similarly, a queue can be implemented using a linked list where the tail represents the back of the queue, and new elements are added to the tail and removed from the head.
+
+Overall, linked lists are a powerful data structure with many applications in computer science and programming. Understanding how they work and how to use them can be a valuable skill for any software developer.
+
+
+
+
+## 2-BigO:
+
+Big O(oh) notation is used to describe the efficiency of an algorithm or function. This efficiency is evaluated based on 2 factors:
+
+1-Running time
+
+2-Space memory
+
+The time complexity of an algorithm can be determined by analyzing the number of operations it performs as the input size increases. For example, a linear search algorithm that searches for a value in an array by iterating through each element has a time complexity of O(n), where "n" is the size of the array. This means that as the size of the array increases, the time it takes to perform the search will increase linearly.
+
+We can describe overall efficiency by using the input size n and measuring the overall Units of Space and Time required for the given input size n. As the value of n grows, the Order of Growth represents the increase in Running Time or Memory Space.
+
+Some orders of growth:
+
+1-Constant Complexity
+
+2-Logarithmic Complexity
+
+3-Linear Complexity
+
+4-Linearithmic Complexity 
