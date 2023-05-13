@@ -13,4 +13,5 @@
 |  7  | [Read: Class-02](./Code401/Class-02.md) |
 |  8  | [Read: Class-03](./Code401/Class-03.md) |
 |  9  | [Read: Class-04](./Code401/Class-04.md) |
-|  9  | [Linked lists](./Code401/Linked-lists) |
+|  10  | [Linked lists](./Code401/Linked-lists) |
+|  11  | [Read: class-06](./Code401/Class-06.md) |
