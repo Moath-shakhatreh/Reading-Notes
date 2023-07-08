@@ -25,6 +25,7 @@
 |  18  | [Read: Class 14](./Code401/Class-14.md) |
 |  19  | [Read: Class 16](./Code401/Class-16.md) |
 |  20  | [Read: Class 17](./Code401/Class-17.md) |
+|  20  | [Read: Class 26](./Code401/Class-26.md) |
 
 
 
