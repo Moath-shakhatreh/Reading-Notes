@@ -29,6 +29,7 @@
 |  20  | [Read: Class 27](./Code401/Class-27.md) |
 |  21  | [Read: Class 28](./Code401/Class-28.md) |
 |  22  | [Read: Class 29](./Code401/Class-29.md) |
+|  23  | [Hash_tables](./Code401/Hash_tables.md) |
 
 
 
