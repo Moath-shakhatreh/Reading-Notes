@@ -32,4 +32,5 @@
 |  23  | [Hash_tables](./Code401/Hash_tables.md) |
 |  24  | [Read: Class 31](./Code401/Class-31.md) |
 |  25  | [Read: Class 32](./Code401/Class-32.md) |
+|  26  | [Read: Class 33](./Code401/Class-33.md) |
 
