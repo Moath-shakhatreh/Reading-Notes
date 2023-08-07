@@ -34,5 +34,5 @@
 |  25  | [Read: Class 32](./Code401/Class-32.md) |
 |  26  | [Read: Class 33](./Code401/Class-33.md) |
 |  27  | [Read: Class 34](./Code401/Class-34.md) |
-|  28  | [Read: Class 35](./Code401/Class-35.md) |
+|  28  | [Read: Class 36](./Code401/Class-36.md) |
 
