@@ -6,6 +6,7 @@
 
 Serverless computing is a cloud computing model that allows developers to build and run applications without the need to manage traditional server infrastructure. Here are the key characteristics of serverless computing and how it differs from traditional server-based architectures:
 
+
 No Server Management: In serverless computing, the cloud provider is responsible for managing the underlying infrastructure. Developers can focus solely on writing code without worrying about provisioning, scaling, or maintaining servers.
 
 Event-Driven Execution: Serverless architectures are event-driven, meaning that functions (also known as serverless functions or FaaS functions) are triggered by specific events or requests. Functions are executed in response to events such as HTTP requests, database changes, file uploads, or scheduled tasks.
