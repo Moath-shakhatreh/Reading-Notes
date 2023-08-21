@@ -38,4 +38,5 @@
 |  28  | [Graph](./Code401/Graphs.md) |
 |  30  | [Read: Class 37](./Code401/Class-37.md) |
 |  31  | [Read: Class 38](./Code401/Class-38.md) |
+|  41  | [Read: Class 41](./Code401/Class-41.md) |
 
